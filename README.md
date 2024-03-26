@@ -14,7 +14,7 @@ This is a simple To-Do List website built using HTML, CSS, and JavaScript. It al
 ## Installation
 
 1. Clone the repository: `https://github.com/ay07shi/To-do-list`
-2. Open `index.html` in your browser
+2. Open `To-Do List.html` in your browser
 
 ## Usage
 
